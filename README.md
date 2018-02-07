@@ -127,8 +127,7 @@ Google sometimes release a security update for
 [the php-docker image][php-docker]. You have to re-deploy your
 WordPress instance to get the security update.
 
-Enjoy your WordPress installation!
-
+### Resources
 [appengine-standard]: https://cloud.google.com/appengine/docs/about-the-standard-environment
 [appengine-flexible]: https://cloud.google.com/appengine/docs/flexible/
 [sql-settings]: https://console.cloud.google.com/sql/instances
@@ -144,3 +143,8 @@ Enjoy your WordPress installation!
 [cloud-sql-proxy-download]: https://cloud.google.com/sql/docs/mysql/connect-external-app#install
 [credentials-section]: https://console.cloud.google.com/apis/credentials/
 [php-docker]: https://github.com/googlecloudplatform/php-docker
+
+
+Enjoy your WordPress installation!
+
+
