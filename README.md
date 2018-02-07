@@ -1,4 +1,4 @@
-# A helper command for running WordPress on Google Cloud Platform
+#  Running WordPress on Google Cloud Platform
 
 This is a small command line tool for downloading and configuring
 WordPress for Google Cloud Platform. The script allows you to create a
@@ -124,26 +124,7 @@ For details on how to deploy - read [Setting Up WordPress On Google App Engine]:
 ### Update the base image
 
 Google sometimes release a security update for
-[the php-docker image][php-docker]. You have to re-deploy your
-WordPress instance to get the security update.
-
-### Resources
-[appengine-standard]: https://cloud.google.com/appengine/docs/about-the-standard-environment
-[appengine-flexible]: https://cloud.google.com/appengine/docs/flexible/
-[sql-settings]: https://console.cloud.google.com/sql/instances
-[memcache-dashboard]: https://console.cloud.google.com/appengine/memcache
-[memcache-installation]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-memcache-on-ubuntu-12-04#install-memcache
-[mysql-client]: https://dev.mysql.com/doc/refman/5.7/en/mysql.html
-[composer]: https://getcomposer.org/
-[cloud-console]: https://console.cloud.google.com/
-[cloud-storage-console]: https://www.console.cloud.google.com/storage
-[cloud-sql-api-enable]: https://console.cloud.google.com/flows/enableapi?apiid=sqladmin
-[app-engine-setting]: https://console.cloud.google.com/appengine/settings
-[gcloud-sdk]: https://cloud.google.com/sdk/
-[cloud-sql-proxy-download]: https://cloud.google.com/sql/docs/mysql/connect-external-app#install
-[credentials-section]: https://console.cloud.google.com/apis/credentials/
-[php-docker]: https://github.com/googlecloudplatform/php-docker
-
+[the php-docker image][php-docker]. You have to re-deploy your WordPress instance to get the security update.
 
 Enjoy your WordPress installation!
 
