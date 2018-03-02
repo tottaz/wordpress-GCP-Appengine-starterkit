@@ -1,3 +1,7 @@
+This is a repository to get started with WordPress on Google CLoud Platform App Engine - for more details you can read this article 
+
+https://torbjornzetterlund.com/setting-wordpress-google-app-engine/
+
 #  Running WordPress on Google Cloud Platform
 
 This is a small command line tool for downloading and configuring
